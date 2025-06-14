@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+neurona-ui/node_modules/
+neurona-ui/.next/
+*.log
+
+# Misc
+*.env
+data/uploads/
+data/embeddings/
